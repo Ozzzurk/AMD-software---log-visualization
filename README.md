@@ -1,4 +1,4 @@
-# AMD-software---log-visualization
+# AMD-software - log visualization
 Скрипт для визуализации метрик из журнала при помощи графиков
 
 
